@@ -1,0 +1,1 @@
+This repository contains solutions to various HackerRank problems, all solved using Python. The solutions are organized by topic and difficulty level, aiming to help improve problem-solving skills and Python programming techniques.
